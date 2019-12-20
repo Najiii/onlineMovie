@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css">
+        <link rel="stylesheet" href="/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="/css/plyr.css">
+        <link rel="stylesheet" href="/css/jquery.fancybox.min.css">
+        <link rel="stylesheet" href="/css/nouislider.min.css">
+        <link rel="stylesheet" href="/css/jquery.mCustomScrollbar.min.css">
+        <link rel="stylesheet" href="/css/toastr.min.css">
+        <link rel="stylesheet" href='/css/style.css'>
